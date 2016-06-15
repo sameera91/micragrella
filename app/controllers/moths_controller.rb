@@ -1,0 +1,2 @@
+class MothsController < ApplicationController
+end
